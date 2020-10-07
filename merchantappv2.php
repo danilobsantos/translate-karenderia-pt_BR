@@ -694,5 +694,4 @@ $lang['this options is to resize the image uploaded in the app'] = 'opções de 
 $lang['Width'] = 'Largura';
 $lang['Height'] = 'Altura';
 
-
 return $lang;
